@@ -1,0 +1,53 @@
+header{
+    background-color: #138541;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+}
+.logo{
+    height: 50px;
+    width: 40%;
+}
+.iconoUsuario{
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    
+}
+aside{
+    background-color: #eae8e8;
+    float: left;
+    width: 20%;
+    height: 80vh;
+}
+section{
+    background-color: #aae9bc;
+    height: 70vh;
+    margin-top: -20px;
+}
+footer{
+    background-color: #d9d9d9;
+    height: 10vh;
+    text-align: center;
+}
+.titulo1{
+    color: white;
+}
+.titulo2{
+    padding: 10px;
+}
+.flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+}
+
+
